@@ -1,0 +1,97 @@
+[
+  {
+    "slug": "alle-voegel",
+    "format": "abc",
+    "title": "Alle Vögel sind schon da",
+    "composer": "Traditionell",
+    "arranger": "",
+    "tags": [
+      "song",
+      "chords",
+      "lyrics"
+    ],
+    "instrument": "C",
+    "defaultTranspose": 0,
+    "publish": true,
+    "key": {
+      "fifths": 2,
+      "mode": "major"
+    },
+    "updated": "2026-10-24T17:38:28.193Z"
+  },
+  {
+    "slug": "frere-jacques",
+    "format": "abc",
+    "title": "Frère Jacques",
+    "composer": "Traditional",
+    "arranger": "4-voice round",
+    "tags": [
+      "choir",
+      "round"
+    ],
+    "instrument": "C",
+    "defaultTranspose": 0,
+    "publish": true,
+    "key": {
+      "fifths": -1,
+      "mode": "major"
+    },
+    "updated": "2026-10-24T17:38:28.193Z"
+  },
+  {
+    "slug": "little-etude",
+    "format": "musicxml",
+    "title": "Little Etude",
+    "composer": "notenpult sample",
+    "arranger": "",
+    "tags": [
+      "piano",
+      "chords"
+    ],
+    "instrument": "C",
+    "defaultTranspose": 0,
+    "publish": true,
+    "key": {
+      "fifths": 0,
+      "mode": "major"
+    },
+    "updated": "2026-10-24T17:38:28.193Z"
+  },
+  {
+    "slug": "minuet-in-g",
+    "format": "abc",
+    "title": "Minuet in G",
+    "composer": "Christian Petzold",
+    "arranger": "simplified",
+    "tags": [
+      "piano"
+    ],
+    "instrument": "C",
+    "defaultTranspose": 0,
+    "publish": true,
+    "key": {
+      "fifths": 1,
+      "mode": "major"
+    },
+    "updated": "2026-10-24T17:38:28.193Z"
+  },
+  {
+    "slug": "ode-to-joy",
+    "format": "abc",
+    "title": "Ode to Joy",
+    "composer": "Ludwig van Beethoven",
+    "arranger": "",
+    "tags": [
+      "melody",
+      "chords"
+    ],
+    "instrument": "C",
+    "defaultTranspose": 0,
+    "publish": true,
+    "key": {
+      "fifths": 2,
+      "mode": "major"
+    },
+    "updated": "2026-10-24T17:38:28.194Z"
+  }
+]
